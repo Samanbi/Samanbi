@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samanbi
-- 👀 I’m interested in ...programming 
+- 👀 I’m interested in ...programming android java
 - 🌱 I’m currently learning ...programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...6232saman@gmail.com
