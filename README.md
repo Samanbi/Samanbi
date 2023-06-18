@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samanbi
+- 👋 Hi, I’m @Saman
 - 👀 I’m interested in ...programming android java
 - 🌱 I’m currently learning ...programming 
 - 💞️ I’m looking to collaborate on ...
